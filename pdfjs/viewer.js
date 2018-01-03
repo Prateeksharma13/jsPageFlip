@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "http://sukor.in:7854/uploads/20171206125935-006-NityaKram1-296%20(1).pdf";
+var DEFAULT_URL =  "sukor.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
